@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Jhojanmm
-- 👀 I’m interested in learn more about software design 
-- 🌱 I’m currently learning Python but i already have experience in this amazing language
-- 💞️ I’m looking to collaborate on every project where i can learn
-- 📫 How to reach me: jhojanmartinez04@hotmail.com
+Developer passionate about learning, I enjoy share my knowledge with people and absorb information about other points of view especially in software design, and for that, I continuously looking out for new tools, techniques, and challenges. 
 
-<!---
-Jhojanmm/Jhojanmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve participated in some projects that have allowed me to expand my skills as a programmer, like HTML, CSS and JSX with React and managing API calls with Fetch and Axios. Also, I have built some API´s with JavaScript and NodeJS. You can see all my repositories in my GitHub. 
+
+And finally, I’m very happy to be part of Software Community that create amazing things from an idea, and very excited to help this word with my capacities, creativity, and optimism.
