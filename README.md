@@ -1,1 +1,1 @@
-I am always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email or connect with me on LinkedIn. I look forward to connecting and sharing knowledge with like-minded professionals.
+Locked in
